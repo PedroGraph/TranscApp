@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'transcaweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A43D3CF201C643259CB5D35B3AA5D1A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_070F3576B97E4BE8885E74884BD7D402 }}
           package: .
